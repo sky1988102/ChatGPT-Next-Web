@@ -81,7 +81,7 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
-    name: "gpt-4-dalle",
+    name: "gpt-4-0314",
     available: true,
   },
   {
@@ -118,6 +118,10 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "gpt-3.5-turbo-16k-0613",
+    available: true,
+  },
+  {
+    name: "gpt-4-dalle",
     available: true,
   },
 ] as const;
