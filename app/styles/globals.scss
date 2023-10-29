@@ -10,8 +10,8 @@
   --gray: rgb(220, 220, 220);
   --primary: rgb(5, 193, 96);
   --second: rgb(237, 237, 237);
-  --hover-color: #f3f3f3;
-  --bar-color: rgb(210, 255, 234);
+  --hover-color: #e8fff3;
+  --bar-color: rgba(0, 0, 0, 0.1);
   --theme-color: var(--gray);
 
   /* shadow */
@@ -31,9 +31,9 @@
   --gray: rgb(21, 21, 21);
   --primary: rgb(5, 193, 96);
   --second: rgb(47, 47, 47);
-  --hover-color: #323232;
+  --hover-color: #2c3730;
 
-  --bar-color: rgb(44, 55, 48);
+  --bar-color: rgba(255, 255, 255, 0.1);
 
   --border-in-light: 1px solid rgba(255, 255, 255, 0.192);
 
