@@ -775,10 +775,10 @@ function _Chat() {
    // if (selectOrCopy(e.currentTarget, message.content)) {
      // if (userInput.length === 0) {
        // setUserInput(message.content);
-      }
+     // }
 
      // e.preventDefault();
-    }
+   // }
   };
 
   const deleteMessage = (msgId?: string) => {
