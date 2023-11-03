@@ -777,7 +777,7 @@ function _Chat() {
         setUserInput(message.content);
       }
 
-      e.preventDefault();
+     // e.preventDefault();
     }
   };
 
