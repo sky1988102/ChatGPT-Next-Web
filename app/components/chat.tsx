@@ -784,13 +784,13 @@ function _Chat() {
   };
   const onRightClick = (e: any, message: ChatMessage) => {
     // copy to clipboard
-    if (selectOrCopy(e.currentTarget, message.content)) {
-      if (userInput.length === 0) {
-        setUserInput(message.content);
-      }
+   // if (selectOrCopy(e.currentTarget, message.content)) {
+     // if (userInput.length === 0) {
+       // setUserInput(message.content);
+     // }
 
-      e.preventDefault();
-    }
+     // e.preventDefault();
+   // }
   };
 
   const deleteMessage = (msgId?: string) => {
