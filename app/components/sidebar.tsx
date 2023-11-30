@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           AI助手GPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          “浩雀优选”公众号左下角菜单栏购买Key
+          “浩雀优选”公众号菜单栏购买Key使用
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
